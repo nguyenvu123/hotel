@@ -1,0 +1,120 @@
+# Copyright (C) 2018 MonsterInsights
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MonsterInsights Page Insights Addon 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/awesomemotive/monsterinsights/issues\n"
+"POT-Creation-Date: 2019-01-15 07:11-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: MonsterInsights Team <support@monsterinsights.com>\n"
+"Language-Team: MonsterInsights Team <support@monsterinsights.com>\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:92
+msgid "Insights"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:116
+#, php-format
+msgid "View Reports for “%s“"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:163
+msgid "Error"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:164
+msgid "There was an issue loading the report data. Please try again."
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:187
+msgid "Page Insights for:"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:191
+msgid "Close reports overlay"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:196
+msgid "Last 30 Days"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:197
+msgid "Yesterday"
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:274
+msgid "You can't view MonsterInsights reports because you are not licensed."
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:280
+msgid "You can't view MonsterInsights reports due to license key errors."
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:288
+msgid "You must authenticate with MonsterInsights before you can view reports."
+msgstr ""
+
+#: includes/admin/class-monsterinsights-page-insights-admin.php:292
+#: includes/admin/class-monsterinsights-page-insights-admin.php:298
+msgid "Unknown report. Try refreshing and retrying. Contact support if this issue persists."
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:60
+msgid "Page Insights"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:87
+msgid "You must authenticate with MonsterInsights to use reports."
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:96
+msgid "Missing post id parameter."
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:107
+#, php-format
+msgid "You are not allowed to view reports for this %s."
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:285
+msgid "Bounce Rate"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:286
+msgid "Entrances"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:287
+msgid "Page Views"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:288
+msgid "Time on Page"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:289
+msgid "Page Load Time"
+msgstr ""
+
+#: includes/admin/reports/class-monsterinsights-report-page-insights.php:290
+msgid "Exits"
+msgstr ""
+
+#: monsterinsights-page-insights.php:211
+msgid "Please install MonsterInsights Pro to use the MonsterInsights Page Insights addon"
+msgstr ""
+
+#: monsterinsights-page-insights.php:222
+msgid "Please install or update MonsterInsights Pro with version 7.4.0 or newer to use the MonsterInsights Page Insights addon"
+msgstr ""
